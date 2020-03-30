@@ -1,6 +1,6 @@
 # spring-core-5-certification
 
-Anki (https://apps.ankiweb.net) flashcards to help learning about spring 5 that focus on the certification exam.
+Anki (https://apps.ankiweb.net) flashcards with a focus on the certification exam.
 
 Cards include notes from: 
 
